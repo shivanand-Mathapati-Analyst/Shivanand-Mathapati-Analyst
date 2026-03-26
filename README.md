@@ -39,7 +39,7 @@
 ---
 
 ## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=Shivanand-Mathapati-Analyst&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivanand-Mathapati-Analyst&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
