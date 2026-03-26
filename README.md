@@ -34,12 +34,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanand-Mathapati-Analyst&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivanand-Mathapati-Analyst&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=shivanand-Mathapati-Analyst&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Shivanand-Mathapati-Analyst&color=blue)
 
 ---
 
