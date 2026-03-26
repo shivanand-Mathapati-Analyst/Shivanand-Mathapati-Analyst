@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivanand S Mathapati
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&lines=Data+Analyst;Excel+%7C+SQL+%7C+Power+BI;Transforming+Raw+Data+Into+Actionable+Insights)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&lines=Data+Analyst;Excel+%7C+SQL+%7C+Power+BI;Transforming+Raw+Data+Into+Insights)
 
 🚀 Data Analyst | Excel • SQL • Power BI  
 📊 Turning raw data into actionable insights & business decisions  
@@ -19,7 +19,7 @@
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
