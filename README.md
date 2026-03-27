@@ -3,7 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&lines=Google+Data+Analytics+Certified;Excel+%7C+SQL+%7C+Power+BI;Transforming+Raw+Data+Into+Insights)
 
 🚀 Data Analyst | Excel • SQL • Power BI  
-🎓 Google Data Analytics Certified
+🎓 Google Data Analytics Certified  
+<br>
 📊 Turning raw data into actionable insights & business decisions  
 
 
