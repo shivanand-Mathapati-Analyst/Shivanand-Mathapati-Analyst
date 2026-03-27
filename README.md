@@ -39,9 +39,8 @@
   * Tools: Excel, SQL, Tableau, R
     🔗 https://coursera.org/share/c9135167c520baa7ddaad2d78e86b0df
 
-<br>
 ---
-
+<br>
 <h2 align="center">📊✨ Featured Projects ✨📊</h2>
 
 <p align="center">
