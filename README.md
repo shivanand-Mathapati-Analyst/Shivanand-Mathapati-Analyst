@@ -103,13 +103,10 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahivanand-Mathapati-Analyst&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahivanand-Mathapati-Analyst&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivanand-mathapati-analyst&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivanand-mathapati-analyst&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivanand-Mathapati-Analyst&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
