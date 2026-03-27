@@ -39,7 +39,7 @@
   * Tools: Excel, SQL, Tableau, R
     🔗 https://coursera.org/share/c9135167c520baa7ddaad2d78e86b0df
 
-
+<br>
 ---
 
 <h2 align="center">📊✨ Featured Projects ✨📊</h2>
@@ -89,7 +89,7 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 
 
 ---
-
+<br>
 ### 🔹 Retail Sales Analysis Dashboard *(Coming Soon 🚧)*
 
 📌 Building an interactive dashboard using **Excel & Power Query** to analyze sales trends, product performance, and regional insights.
