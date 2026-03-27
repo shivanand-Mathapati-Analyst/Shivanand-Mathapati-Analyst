@@ -27,9 +27,64 @@
 
 
 ---
+## 🎓 Certifications
 
-## 📂 Featured Project
-🚧 Uploading soon...
+* **Google Data Analytics Professional Certificate** (Coursera)
+  📅 Completed: December 2025
+
+  * Completed 9-course specialization including capstone project
+  * Skills: Data Cleaning, EDA, Data Visualization, SQL
+  * Tools: Excel, SQL, Tableau, R
+    🔗 https://coursera.org/share/c9135167c520baa7ddaad2d78e86b0df
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Customer Segmentation & Revenue Intelligence (RFM Analysis)
+
+📌 Analyzed **541,909 e-commerce transactions** to uncover customer behavior, retention risks, and revenue opportunities using Excel, Power Query, Power Pivot & DAX.
+
+---
+
+### 💡 Key Insights
+
+* 💰 **£8.91M Revenue** | 👥 4,338 Customers | 📊 **£736 Avg CLV**
+* ⚠️ **£1.76M Revenue at Risk** due to rising churn (19.78%)
+* 🌟 **Top 21% customers generate 63.83% revenue**
+* 🔁 **34.42% customers never returned**
+* 📉 **122× CLV gap** between Champions vs Lost Customers
+
+---
+
+### 🛠️ What I Built
+
+* ✅ Star schema data model (5 tables) in Power Pivot
+* ✅ 20+ DAX measures (CLV, churn rate, RFM segmentation, risk score)
+* ✅ Interactive dashboards with slicers
+* ✅ Data transformation using Power Query
+
+---
+
+### 🎯 Business Impact
+
+* Identified high-value customers at churn risk
+* Highlighted retention opportunities
+* Delivered actionable business insights
+
+---
+
+🔗 **GitHub Repo:** (https://github.com/shivanand-Mathapati-Analyst/customer-segmentation-analysis)
+🔗 **Dashboard Preview:** ![Dashboard](images/customer-segment-performance-dashboard.png)
+                          ![Dashboard](images/customer-revenue-intelligence-dashboard.png)
+
+---
+
+### 🔹 Retail Sales Analysis Dashboard *(Coming Soon 🚧)*
+
+📌 Building an interactive dashboard using **Excel & Power Query** to analyze sales trends, product performance, and regional insights.
+
+⏳ *Project in progress — will be uploaded soon*
 
 ---
 
