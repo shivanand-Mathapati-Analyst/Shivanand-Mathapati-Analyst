@@ -6,6 +6,7 @@
 🎓 Google Data Analytics Certified
 📊 Turning raw data into actionable insights & business decisions  
 
+
 ---
 
 ## 🔥 About Me
@@ -38,9 +39,7 @@
   * Tools: Excel, SQL, Tableau, R
     🔗 https://coursera.org/share/c9135167c520baa7ddaad2d78e86b0df
 
----
 
-## 📊 Featured Projects
 ---
 
 <h2 align="center">📊✨ Featured Projects ✨📊</h2>
@@ -56,7 +55,7 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 
 📌 Analyzed **541,909 e-commerce transactions** to uncover customer behavior, retention risks, and revenue opportunities using Excel, Power Query, Power Pivot & DAX.
 
----
+
 
 ### 💡 Key Insights
 
@@ -66,7 +65,7 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 * 🔁 **34.42% customers never returned**
 * 📉 **122× CLV gap** between Champions vs Lost Customers
 
----
+
 
 ### 🛠️ What I Built
 
@@ -75,7 +74,7 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 * ✅ Interactive dashboards with slicers
 * ✅ Data transformation using Power Query
 
----
+
 
 ### 🎯 Business Impact
 
@@ -83,7 +82,7 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 * Highlighted retention opportunities
 * Delivered actionable business insights
 
----
+
 
 🔗 **GitHub Repo:** (https://github.com/shivanand-Mathapati-Analyst/customer-segmentation-analysis)
 
@@ -98,6 +97,8 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 ⏳ *Project in progress — will be uploaded soon*
 
 ---
+
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivanand-Mathapati-Analyst&show_icons=true&theme=tokyonight)
