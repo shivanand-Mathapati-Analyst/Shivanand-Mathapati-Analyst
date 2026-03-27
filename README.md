@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Shivanand S Mathapati
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&lines=Data+Analyst;Excel+%7C+SQL+%7C+Power+BI;Transforming+Raw+Data+Into+Insights)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&lines=Google+Data+Analytics+Certified;Excel+%7C+SQL+%7C+Power+BI;Transforming+Raw+Data+Into+Insights)
 
 🚀 Data Analyst | Excel • SQL • Power BI  
+🎓 Google Data Analytics Certified
 📊 Turning raw data into actionable insights & business decisions  
 
 ---
@@ -40,8 +41,18 @@
 ---
 
 ## 📊 Featured Projects
+---
 
-### 🔹 Customer Segmentation & Revenue Intelligence (RFM Analysis)
+<h2 align="center">📊✨ Featured Projects ✨📊</h2>
+
+<p align="center">
+Turning Data into Insights • Insights into Decisions • Decisions into Impact
+</p>
+
+---
+
+
+### 🔹 Customer Segmentation & Revenue Intelligence Dashboard
 
 📌 Analyzed **541,909 e-commerce transactions** to uncover customer behavior, retention risks, and revenue opportunities using Excel, Power Query, Power Pivot & DAX.
 
@@ -75,8 +86,8 @@
 ---
 
 🔗 **GitHub Repo:** (https://github.com/shivanand-Mathapati-Analyst/customer-segmentation-analysis)
-🔗 **Dashboard Preview:** ![Dashboard](images/customer-segment-performance-dashboard.png)
-                          ![Dashboard](images/customer-revenue-intelligence-dashboard.png)
+
+
 
 ---
 
