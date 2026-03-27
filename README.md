@@ -4,7 +4,6 @@
 
 🚀 Data Analyst | Excel • SQL • Power BI  
 🎓 Google Data Analytics Certified  
-<br>
 📊 Turning raw data into actionable insights & business decisions  
 
 
@@ -98,7 +97,7 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 ⏳ *Project in progress — will be uploaded soon*
 
 ---
-
+<br>
 
 
 ## 📊 GitHub Stats
