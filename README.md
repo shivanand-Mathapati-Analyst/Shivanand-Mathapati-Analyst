@@ -89,6 +89,7 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 
 ---
 <br>
+
 ### 🔹 Retail Sales Analysis Dashboard *(Coming Soon 🚧)*
 
 📌 Building an interactive dashboard using **Excel & Power Query** to analyze sales trends, product performance, and regional insights.
