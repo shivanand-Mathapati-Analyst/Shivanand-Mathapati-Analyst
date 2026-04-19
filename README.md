@@ -159,42 +159,53 @@ See here 👉 🔗 https://github.com/shivanand-Mathapati-Analyst/retail-sales-p
 <br>
 
 
-## 3️⃣ E COMMERCE SALES & CUSTOMER INTELLIGENCE ANALYSIS
+## 3️⃣ Brazil E-Commerce Sales & Customer Intelligence Analysis
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F59E0B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL-ADVANCED-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/POWER%20BI-DASHBOARD-F2C811?style=flat-square"/>
   <img src="https://img.shields.io/badge/DAX-ANALYTICS-F59E0B?style=flat-square"/>
 </p>
 
-📊 Building an end-to-end analytics solution to analyze e-commerce sales performance and customer behavior using SQL and Power BI.
+📊 End-to-end e-commerce analytics platform built using SQL Server and Power BI, analyzing **100K+ orders and R$20M+ revenue** to uncover customer behavior, retention gaps, and operational insights.
 
 ---
 
-### 💡 EXPECTED IMPACT
+### 💡 BUSINESS IMPACT
 
-- 📈 Identify **revenue trends and seasonality patterns**  
-- 👥 Segment customers based on **behavior & purchase patterns**  
-- 🔁 Analyze **retention, churn, and repeat purchase rate**  
-- 💰 Highlight **high-value customers and revenue drivers**  
-
----
-
-### 🛠️ BUILD (WHAT I’M DOING)
-
-- Writing **advanced SQL queries (JOINs, CTEs, Aggregations)** for analysis  
-- Performing **data transformation using Power Query (ETL)**  
-- Designing **data model and relationships in Power BI**  
-- Creating **DAX measures for KPIs and customer metrics**  
-- Building **interactive dashboard with filters and drill-downs**  
+- 📉 Identified **critical retention issue (3.03% vs 20% benchmark)**  
+- 👥 Discovered **96.95% customers are one-time buyers**  
+- 🚚 Detected **high delivery delays in specific regions (67% late rate)**  
+- 💰 Highlighted **top 25% customers driving ~60% of revenue**  
 
 ---
 
-### 🎯 OUTCOME (GOAL)
+### 🛠️ WHAT I BUILT
 
-To deliver a scalable dashboard that enables **data-driven decisions on sales performance, customer segmentation, and revenue growth**.  
-🚧 Currently in progress — full dashboard and insights coming soon.
+- 🏗️ Designed **multi-schema SQL architecture** (`import`, `clean`, `analytics`, `audit`)  
+- 📊 Built **central fact table + 14 analytics views** for BI consumption  
+- 🧠 Implemented advanced analytics:
+  - RFM segmentation  
+  - Customer Lifetime Value (CLV)  
+  - Cohort retention analysis  
+  - NPS scoring  
+- 📐 Developed **star schema data model (15 tables)** in Power BI  
+- ⚡ Created **15+ DAX measures** for KPIs and business metrics  
+- 📊 Delivered **7-page interactive dashboard (50+ visuals)**  
+
+---
+
+### 🎯 OUTCOME
+
+Delivered a **production-grade analytics solution** that transforms raw data into:
+
+- 📊 Executive dashboards  
+- 📈 Actionable business insights  
+- 🧠 Customer intelligence system  
+
+Enabling **data-driven decisions across sales, customer retention, and operations**.
+
 
 ---
 <br>
