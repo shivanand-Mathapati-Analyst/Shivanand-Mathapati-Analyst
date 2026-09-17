@@ -14,7 +14,7 @@
 
 ## 🔥 ABOUT ME
 
-- 📊 Strong in **Excel, SQL, Power BI**
+- 📊 Strong in **Excel, SQL, Power BI, Tableau**
 - 🐍 Learning **Python for advanced analytics**
 - 🎯 Focused on solving **real-world business problems**
 - 🧠 Passionate about **Data Analytics & BI**
@@ -27,9 +27,9 @@
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Intermediate-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
 
 ---
 ## 🎓 CERTIFICATIONS
