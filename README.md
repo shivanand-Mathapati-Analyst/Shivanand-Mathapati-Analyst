@@ -87,6 +87,9 @@ Built real-world projects applying these skills — see Featured Projects below 
   <img src="https://img.shields.io/badge/DAX-20%2B%20MEASURES-F59E0B?style=flat-square"/>
   <img src="https://img.shields.io/badge/DATA-541K%20RECORDS-0EA5E9?style=flat-square"/>
 </p>
+
+🗓️ **Timeline:** `<start date>` → `<end date>`
+
 📊 Analyzed **541,909 transactions** to uncover customer behavior, churn risk, and revenue opportunities.
 
 ---
@@ -118,7 +121,7 @@ See here 👉 🔗 https://github.com/shivanand-Mathapati-Analyst/customer-segme
 ---
 <br>
 
-## 2️⃣ RETAIL SALES PERFORMANCE ANALYSIS DASHBOARD
+## 2️⃣ SUPERSTORE SALES ANALYSIS — EXCEL DASHBOARD
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
@@ -126,6 +129,8 @@ See here 👉 🔗 https://github.com/shivanand-Mathapati-Analyst/customer-segme
   <img src="https://img.shields.io/badge/TOOL-EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/KPI-12%2B-F59E0B?style=flat-square"/>
 </p>
+
+🗓️ **Timeline:** `<start date>` → `<end date>`
 
 📊 Built an interactive Excel dashboard analyzing **9,994 transactions**, enabling real-time tracking of **12+ KPIs** and faster business decision-making.
 
@@ -143,7 +148,7 @@ See here 👉 🔗 https://github.com/shivanand-Mathapati-Analyst/customer-segme
 ### 🛠️ BUILD (HOW I DID IT)
 
 - Developed **MoM & YoY sales analysis** to track growth trends  
-- Cleaned and transformed data using **Excel Formulas(Advanced)**  
+- Cleaned and transformed data using **Excel Formulas (Advanced)**  
 - Designed **interactive dashboard with slicers & drill-down views**  
 - Created **12+ KPIs** (Revenue, Profit, AOV, Growth %) using Excel formulas  
 
@@ -158,55 +163,46 @@ See here 👉 🔗 https://github.com/shivanand-Mathapati-Analyst/retail-sales-p
 ---
 <br>
 
-
-## 3️⃣ Brazil E-Commerce Sales & Customer Intelligence Analysis
+## 3️⃣ SUPERSTORE SALES ANALYSIS — POWER BI DASHBOARD
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-ADVANCED-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/POWER%20BI-DASHBOARD-F2C811?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DAX-ANALYTICS-F59E0B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TOOL-POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-50%2B%20MEASURES-217346?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MODEL-STAR%20SCHEMA-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DATA-9,994%20ROWS-0EA5E9?style=flat-square"/>
 </p>
 
-📊 End-to-end e-commerce analytics platform built using SQL Server and Power BI, analyzing **100K+ orders and R$20M+ revenue** to uncover customer behavior, retention gaps, and operational insights.
+🗓️ **Timeline:** `<start date>` → `<end date>`
+
+📊 Built a 6-page interactive Power BI dashboard analyzing **9,994 transactions**, diagnosing why sales grew every year while profit margin stagnated and declined.
 
 ---
 
-### 💡 BUSINESS IMPACT
+### 💡 IMPACT (WHAT MATTERS)
 
-- 📉 Identified **critical retention issue (3.03% vs 20% benchmark)**  
-- 👥 Discovered **96.95% customers are one-time buyers**  
-- 🚚 Detected **high delivery delays in specific regions (67% late rate)**  
-- 💰 Highlighted **top 25% customers driving ~60% of revenue**  
+- 💰 **$2.30M sales analyzed** | 📉 **$286K profit** with margin declining from 13.4% to 12.7% despite 20%+ sales growth  
+- ⚠️ **26.3% of orders (1,318 of 5,009) were unprofitable**, traced back to a systemic discount-approval issue  
+- 🏷️ **$322.58K given away in discounts** — more than total profit earned in the same period  
+- 🪑 Identified **Furniture (Tables & Bookcases) as structurally unprofitable**, despite receiving the highest average discount of any category  
 
 ---
 
-### 🛠️ WHAT I BUILT
+### 🛠️ BUILD (HOW I DID IT)
 
-- 🏗️ Designed **multi-schema SQL architecture** (`import`, `clean`, `analytics`, `audit`)  
-- 📊 Built **central fact table + 14 analytics views** for BI consumption  
-- 🧠 Implemented advanced analytics:
-  - RFM segmentation  
-  - Customer Lifetime Value (CLV)  
-  - Cohort retention analysis  
-  - NPS scoring  
-- 📐 Developed **star schema data model (15 tables)** in Power BI  
-- ⚡ Created **15+ DAX measures** for KPIs and business metrics  
-- 📊 Delivered **7-page interactive dashboard (50+ visuals)**  
+- Built a **star-schema data model** with a 9,994-row fact table and a custom date dimension  
+- Developed **50+ DAX measures** — core KPIs, time intelligence (YTD/QTD/MTD, YoY%, MoM%), dynamic titles, and Pareto customer analysis  
+- Designed **dynamic page titles & auto-generated insight callouts** driven entirely by DAX  
+- Cleaned and transformed data in **Power Query (M)** — type casting, derived columns (Delivery Days, On-Time/Late Flag, Discount Band)  
+- Delivered **root-cause analysis with actionable business recommendations**, not just dashboards  
 
 ---
 
 ### 🎯 OUTCOME
 
-Delivered a **production-grade analytics solution** that transforms raw data into:
+Diagnosed the exact drivers behind a real "growth without profitability" business problem — discount policy, one structurally unprofitable category, and a concentrated set of loss-making states — and translated the findings into a prioritized recommendation list.
 
-- 📊 Executive dashboards  
-- 📈 Actionable business insights  
-- 🧠 Customer intelligence system  
-
-Enabling **data-driven decisions across sales, customer retention, and operations**.
-
-See here 👉 🔗 https://github.com/shivanand-Mathapati-Analyst/Olist-Ecommerce-Analytics-SQL-PowerBI
+See here 👉 🔗 https://github.com/shivanand-Mathapati-Analyst/powerbi-superstore-sales-analysis
 
 ---
 <br>
