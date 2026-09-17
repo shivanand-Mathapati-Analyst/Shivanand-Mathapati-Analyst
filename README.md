@@ -6,7 +6,7 @@
 
 ---
 
-🚀 **Data Analyst | Excel • SQL • Power BI**  
+🚀 **Data Analyst | Excel • SQL • Power BI • Tableau**  
 🎓 **Google Data Analytics Certified**  
 📊 Turning raw data into **actionable insights & business decisions**
 
