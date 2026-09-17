@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I'm <span style="color:#00C2FF;">Shivanand S Mathapati</span></h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&duration=2500&pause=800&vCenter=true&width=600&lines=DATA+ANALYST;EXCEL+%7C+SQL+%7C+POWER+BI;TURNING+RAW+DATA+INTO+INSIGHTS" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&duration=2500&pause=800&vCenter=true&width=600&lines=DATA+ANALYST;EXCEL+%7C+SQL+%7C+POWER+BI+%7C+Tableau;TURNING+RAW+DATA+INTO+INSIGHTS" />
 </p>
 
 ---
