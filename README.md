@@ -3,13 +3,16 @@
        assets/banner.svg      (animated hero)
        assets/segments.svg    (animated revenue-share chart)
        .github/workflows/snake-amber.yml  (contribution snake, run once)
-═══════════════════════════════════════════════════════════════════ -->
+═══════════════════════════════════════════════════════════════════ 
+     If banner.svg ever fails to load, swap the first <img> below for this one (no repo files needed):
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:14120F,50:B7791F,100:F5A623&text=Shivanand%20S%20Mathapati&fontColor=FFF8EC&fontSize=46&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&animation=fadeIn" width="100%"/>
+-->
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Shivanand S Mathapati — Data Analyst"/>
+<img src="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/main/assets/banner.svg" width="100%" alt="Shivanand S Mathapati — Data Analyst"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&color=F5A623&size=22&duration=2600&pause=700&center=true&vCenter=true&width=780&lines=I+don't+just+build+dashboards.;I+prove+the+numbers+are+right.;One+business+question.+Three+tools.+Same+answer.;Turning+raw+data+into+decisions." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&color=F5A623&size=22&duration=2600&pause=700&center=true&vCenter=true&width=780&lines=Data+Analyst+%7C+Excel+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;I+build+dashboards+and+prove+the+numbers+are+right;One+business+question.+Three+tools.+Same+answer.;Turning+raw+data+into+decisions" alt="Typing SVG"/>
 
 <br>
 
@@ -27,7 +30,7 @@
 
 <br><br>
 
-**[⚡ TL;DR](#-recruiter-tldr)** · **[🧭 Approach](#-signature-approach)** · **[🏆 Projects](#-featured-projects)** · **[🔬 Validation](#-cross-tool-validation)** · **[🐞 Bugs](#-bugs-i-caught-and-fixed)** · **[❓ FAQ](#-faq)** · **[🤝 Connect](#-lets-connect)**
+**[⚡ TL;DR](#tldr)** · **[🧭 Approach](#approach)** · **[🏆 Projects](#projects)** · **[🔬 Validation](#validation)** · **[🐞 Bugs](#bugs)** · **[❓ FAQ](#faq)** · **[🤝 Connect](#connect)**
 
 </div>
 
@@ -58,6 +61,8 @@ On branch main — currently building: HR Analytics (Power BI) 🚧
 
 ---
 
+<a id="tldr"></a>
+
 ## ⚡ Recruiter TL;DR
 
 > [!TIP]
@@ -75,10 +80,12 @@ On branch main — currently building: HR Analytics (Power BI) 🚧
 ## 📈 Where the Revenue Comes From
 
 <div align="center">
-<img src="assets/segments.svg" width="100%" alt="Revenue share by RFM segment: Champions 65.84%, Loyal 13.08%, At Risk 12.73%, Potential Loyalists 6.38%, Lost 1.97%"/>
+<img src="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/main/assets/segments.svg" width="100%" alt="Revenue share by RFM segment: Champions 65.84%, Loyal 13.08%, At Risk 12.73%, Potential Loyalists 6.38%, Lost 1.97%"/>
 </div>
 
 ---
+
+<a id="approach"></a>
 
 ## 🧭 Signature Approach
 
@@ -121,6 +128,8 @@ flowchart LR
 
 ---
 
+<a id="projects"></a>
+
 ## 🏆 Featured Projects
 
 <table>
@@ -136,7 +145,7 @@ RFM analysis of **541K transactions** — who drives revenue, who's about to lea
 
 ✅ **Completed**
 
-[**↓ Jump to details**](#1️⃣-customer-segmentation--revenue-intelligence)
+[**↓ Jump to details**](#project-1)
 
 </td>
 <td width="33%" valign="top">
@@ -150,7 +159,7 @@ Sales grew every year — so why did **profit margin fall**?
 
 ✅ **Completed**
 
-[**↓ Jump to details**](#2️⃣-superstore-sales-analysis--why-did-profit-decline)
+[**↓ Jump to details**](#project-2)
 
 </td>
 <td width="33%" valign="top">
@@ -164,13 +173,15 @@ IBM HR Attrition dataset
 
 🚧 **Coming Soon**
 
-[**↓ Jump to details**](#3️⃣-hr-analytics--employee-attrition)
+[**↓ Jump to details**](#project-3)
 
 </td>
 </tr>
 </table>
 
 ---
+
+<a id="project-1"></a>
 
 ## 1️⃣ Customer Segmentation & Revenue Intelligence
 
@@ -237,6 +248,8 @@ IBM HR Attrition dataset
 
 ---
 
+<a id="project-2"></a>
+
 ## 2️⃣ Superstore Sales Analysis — *Why Did Profit Decline?*
 
 <p>
@@ -269,6 +282,8 @@ IBM HR Attrition dataset
 
 ---
 
+<a id="project-3"></a>
+
 ## 3️⃣ HR Analytics — Employee Attrition
 
 <p>
@@ -291,6 +306,8 @@ IBM HR Attrition dataset
 
 ---
 
+<a id="validation"></a>
+
 ## 🔬 Cross-Tool Validation
 
 Same dataset, same methodology, **built independently** — here's how the Customer Segmentation numbers line up:
@@ -307,6 +324,8 @@ Same dataset, same methodology, **built independently** — here's how the Custo
 > Tiny differences (e.g. ±1 customer at a segment boundary) come from tie-breaking in each tool's ranking logic — documented, not hidden.
 
 ---
+
+<a id="bugs"></a>
 
 ## 🐞 Bugs I Caught and Fixed
 
@@ -328,6 +347,8 @@ Same dataset, same methodology, **built independently** — here's how the Custo
 </details>
 
 ---
+
+<a id="faq"></a>
 
 ## ❓ FAQ
 
@@ -399,6 +420,8 @@ Data Analyst, Business Analyst, Power BI Developer or MIS Executive roles — in
 </p>
 
 ---
+
+<a id="connect"></a>
 
 ## 🤝 Let's Connect
 
