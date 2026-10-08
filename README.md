@@ -1,16 +1,16 @@
-<!-- ═══════════════  OBSIDIAN & AMBER — PROFILE README  ═══════════════
-     Assets expected in the profile repo:
-       assets/banner.svg      (animated hero)
-       assets/segments.svg    (animated revenue-share chart)
-       .github/workflows/snake-amber.yml  (contribution snake, run once)
-═══════════════════════════════════════════════════════════════════ 
-     If banner.svg ever fails to load, swap the first <img> below for this one (no repo files needed):
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:14120F,50:B7791F,100:F5A623&text=Shivanand%20S%20Mathapati&fontColor=FFF8EC&fontSize=46&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&animation=fadeIn" width="100%"/>
+<!-- OBSIDIAN & AMBER PROFILE README
+     The hero banner and the revenue chart need NO repo files, so nothing can show as a broken image.
+
+     OPTIONAL upgrade - custom animated banner (use only after assets/banner.svg is committed to your main branch):
+     replace the first <img> below with:
+     <img src="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/main/assets/banner.svg" width="100%" alt="Shivanand S Mathapati - Data Analyst"/>
+
+     Contribution snake needs .github/workflows/snake-amber.yml to have run once.
 -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/main/assets/banner.svg" width="100%" alt="Shivanand S Mathapati — Data Analyst"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:14120F,50:B7791F,100:F5A623&text=Shivanand%20S%20Mathapati&fontColor=FFF8EC&fontSize=46&fontAlignY=36&desc=Data%20Analyst%20%C2%B7%20Excel%20%C2%B7%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Shivanand S Mathapati - Data Analyst"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&color=F5A623&size=22&duration=2600&pause=700&center=true&vCenter=true&width=780&lines=Data+Analyst+%7C+Excel+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;I+build+dashboards+and+prove+the+numbers+are+right;One+business+question.+Three+tools.+Same+answer.;Turning+raw+data+into+decisions" alt="Typing SVG"/>
 
@@ -79,9 +79,15 @@ On branch main — currently building: HR Analytics (Power BI) 🚧
 
 ## 📈 Where the Revenue Comes From
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/main/assets/segments.svg" width="100%" alt="Revenue share by RFM segment: Champions 65.84%, Loyal 13.08%, At Risk 12.73%, Potential Loyalists 6.38%, Lost 1.97%"/>
-</div>
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'pie1':'#F5A623','pie2':'#4ADE80','pie3':'#F97316','pie4':'#60A5FA','pie5':'#EF4444','pieTitleTextColor':'#B7791F','pieSectionTextColor':'#14120F','pieLegendTextColor':'#8A6320','pieStrokeColor':'#14120F','pieOuterStrokeWidth':'0px','fontFamily':'Segoe UI, Arial'}}}%%
+pie showData title Revenue share by RFM segment (4,371 customers · £8.89M gross)
+    "Champions · 1,009 customers" : 65.84
+    "Loyal Customers · 889" : 13.08
+    "At Risk · 919" : 12.73
+    "Potential Loyalists · 739" : 6.38
+    "Lost Customers · 815" : 1.97
+```
 
 ---
 
