@@ -64,37 +64,25 @@
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-```mermaid
-mindmap
-  root((Analyst<br/>Toolkit))
-    Excel
-      Power Query ETL
-      Power Pivot star schema
-      DAX measures
-      PivotTables & slicers
-    SQL Server
-      Window functions
-      Recursive CTEs
-      Views & stored procedures
-      Schema design
-    Power BI
-      Data modeling
-      Time intelligence
-      Bookmark app UX
-      Drillthrough & tooltips
-    Thinking
-      RFM segmentation
-      Pareto 80/20
-      Root-cause analysis
-      Data validation
-    MySQL
-      Database Design
-      CTE, VIEWS, Window Function...
-    Tableau
-      Visualization
-      LOD
-      Calculated Fields
-```
+
+---
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+| Layer | Tools | Proven in |
+|---|---|---|
+| **Spreadsheet analytics** | Excel, Google Sheets | Data Cleaning, Formulas, Power Pivot, Power Query, Pivot Table, Macros, Dashboards |
+| **Modelling & Visualization** | Power BI, Tableau | DAX, LOD, Calculated Fields, Power Query, M-Code, Dashboards |
+| **Database** | SQL Server, MySQL | Window functions, CTE, Views, Stored Procedures etc |
+| **Methods** | RFM, Pareto, root-cause, validation | Customer Segmentation, Sales Analysis, Attrition Analysis |
+| **Learning** | Python (Data Cleaning) |
 
 ---
 
