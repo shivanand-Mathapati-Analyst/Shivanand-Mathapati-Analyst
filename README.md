@@ -45,20 +45,6 @@
 | 🧠 **Working style** | Count first. Clean second. Cross-check always. Document the bugs. |
 
 ---
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-ADVANCED LEVEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-ADVANCED-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-DAX%20DATA%20MODELLING%20DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL%20-Advanced-1E7145?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tableau-%20Visualiztion-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-
----
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -106,7 +92,7 @@ flowchart LR
 |:-:|---|---|:-:|
 | 1 | [**Customer Segmentation & Revenue Intelligence**](#1️⃣-customer-segmentation--revenue-intelligence) | Excel · Power BI · SQL Server | ✅ Completed |
 | 2 | [**Superstore Sales — Why Did Profit Decline?**](#2️⃣-superstore-sales-analysis--why-did-profit-decline) | Excel · Power BI · SQL Server | ✅ Completed |
-| 3 | [**HR Analytics — Employee Attrition**](#3️⃣-hr-analytics--employee-attrition) | Power BI | 🚧 Coming Soon |
+| 3 | [**HR Analytics — Employee Attrition**](#3️⃣-hr-analytics--employee-attrition) | SQL Server · Power BI | ✅ Completed |
 
 ---
 
@@ -326,17 +312,15 @@ Same dataset, same methodology, **built independently** — here's how the Custo
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/output/github-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/output/github-snake.svg">
   </picture>
 </p>
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=Shivanand-Mathapati-Analyst&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/shivanand-mathapati-analyst?style=flat-square&label=Followers&color=0EA5E9"/>
-<img src="https://img.shields.io/github/stars/shivanand-mathapati-analyst?style=flat-square&label=Stars&color=F59E0B"/>
-<img src="https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-16A34A?style=flat-square"/>
-
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivanand-Mathapati-Analyst&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/shivanand-mathapati-analyst?style=for-the-badge&label=Followers&color=0EA5E9"/>
+  <img src="https://img.shields.io/github/stars/shivanand-mathapati-analyst?style=for-the-badge&label=Stars&color=F59E0B"/>
+  <img src="https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-16A34A?style=for-the-badge"/>
+</p>
 
 ## 🤝 Let's Connect
 
