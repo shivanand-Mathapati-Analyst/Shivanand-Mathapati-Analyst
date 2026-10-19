@@ -13,7 +13,7 @@
 
 <br>
 
-**[⚡ TL;DR](#-recruiter-tldr)** · **[🧭 Approach](#-my-signature-approach)** · **[🏆 Projects](#-featured-projects)** · **[🔬 Cross-Validation](#-cross-tool-validation)** · **[🐞 Bugs I Caught](#-bugs-i-caught-and-fixed)** · **[🗺️ Roadmap](#️-roadmap)** · **[🤝 Connect](#-lets-connect)**
+**[⚡ TL;DR](#-recruiter-tldr)** · **[👤 About](#-about)** · **[🧭 Approach](#-my-signature-approach)** · **[🏆 Projects](#-featured-projects)** · **[🔬 Cross-Validation](#-cross-tool-validation)** · **[🐞 Bugs I Caught](#-bugs-i-caught-and-fixed)** · **[🗺️ Roadmap](#️-roadmap)** · **[🤝 Connect](#-lets-connect)**
 
 </div>
 
@@ -22,7 +22,7 @@
 ## ⚡ Recruiter TL;DR
 
 > [!TIP]
-> I'm a Data Analyst (Excel · SQL Server · Power BI · DAX · Power Query) who builds each project **end to end** — raw CSV → validated, cleaned data → star schema → analysis → business recommendations — and then **rebuilds it in a second and third tool to check the answer.**
+> I'm a Data Analyst aspirant (Excel · SQL Server · Power BI · DAX · Power Query) who builds each project **end to end** — raw CSV → validated, cleaned data → star schema → analysis → business recommendations — and then **rebuilds it in a second and third tool to check the answer.**
 
 | 🎯 What I deliver | 📊 Proof (from my projects) |
 |---|---|
@@ -48,10 +48,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
