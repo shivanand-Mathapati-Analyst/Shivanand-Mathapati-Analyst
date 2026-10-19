@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:0EA5E9,100:00C2FF&text=Shivanand%20S%20Mathapati&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Excel%20%C2%B7%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descSize=19&descAlignY=58&animation=twinkling" width="100%" alt="Shivanand S Mathapati banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&color=00C2FF&size=22&duration=2600&pause=700&center=true&vCenter=true&width=760&lines=I+don't+just+build+dashboards.;I+prove+the+numbers+are+right.;One+business+question.+Three+tools.+Same+answer.;Turning+raw+data+into+decisions." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&color=00C2FF&size=22&duration=2600&pause=700&center=true&vCenter=true&width=760&lines=I+don't+just+build+dashboards.;I+prove+the+numbers+are+right.;One+business+question.+Three+tools.+Same+answer.;" alt="Typing SVG"/>
 
 <br>
 
@@ -12,13 +12,6 @@
 <a href="mailto:shivanandmathapati350@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Shivanand-Mathapati-Analyst&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/shivanand-mathapati-analyst?style=flat-square&label=Followers&color=0EA5E9"/>
-<img src="https://img.shields.io/github/stars/shivanand-mathapati-analyst?style=flat-square&label=Stars&color=F59E0B"/>
-<img src="https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-16A34A?style=flat-square"/>
-
-<br><br>
 
 **[⚡ TL;DR](#-recruiter-tldr)** · **[🧭 Approach](#-my-signature-approach)** · **[🏆 Projects](#-featured-projects)** · **[🔬 Cross-Validation](#-cross-tool-validation)** · **[🐞 Bugs I Caught](#-bugs-i-caught-and-fixed)** · **[🗺️ Roadmap](#️-roadmap)** · **[🤝 Connect](#-lets-connect)**
 
@@ -337,7 +330,13 @@ Same dataset, same methodology, **built independently** — here's how the Custo
   </picture>
 </p>
 
----
+<br>
+<img src="https://komarev.com/ghpvc/?username=Shivanand-Mathapati-Analyst&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/shivanand-mathapati-analyst?style=flat-square&label=Followers&color=0EA5E9"/>
+<img src="https://img.shields.io/github/stars/shivanand-mathapati-analyst?style=flat-square&label=Stars&color=F59E0B"/>
+<img src="https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-16A34A?style=flat-square"/>
+
+<br>
 
 ## 🤝 Let's Connect
 
