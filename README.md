@@ -61,7 +61,7 @@
 | **Modelling & Visualization** | Power BI, Tableau | DAX, LOD, Calculated Fields, Power Query, M-Code, Dashboards |
 | **Database** | SQL Server, MySQL | Window functions, CTE, Views, Stored Procedures etc |
 | **Methods** | RFM, Pareto, root-cause, validation | Customer Segmentation, Sales Analysis, Attrition Analysis |
-| **Learning** | Python (Data Cleaning) |
+| **Learning** | Python | Data Cleaning |
 
 ---
 
