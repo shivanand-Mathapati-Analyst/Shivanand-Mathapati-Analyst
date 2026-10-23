@@ -121,7 +121,26 @@ pie showData title Revenue share by RFM segment
     "Potential Loyalists" : 6.38
     "Lost Customers" : 1.97
 ```
-
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "pie1": "#F5A623",
+  "pie2": "#4ADE80",
+  "pie3": "#F97316",
+  "pie4": "#60A5FA",
+  "pie5": "#EF4444",
+  "pieTitleTextColor": "#888888",
+  "pieSectionTextColor": "#1a1a1a",
+  "pieLegendTextColor": "#888888",
+  "pieStrokeColor": "#ffffff",
+  "pieOuterStrokeColor": "#ffffff"
+}}}%%
+pie showData title Revenue share by RFM segment
+    "Champions (23% of customers)" : 65.84
+    "Loyal Customers" : 13.08
+    "At Risk" : 12.73
+    "Potential Loyalists" : 6.38
+    "Lost Customers" : 1.97
+```
 <details open>
 <summary><b>📖 Case study — Situation · Task · Action · Result</b></summary>
 <br>
