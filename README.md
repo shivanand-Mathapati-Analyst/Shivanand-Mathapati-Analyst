@@ -42,7 +42,7 @@
 | 📍 **Based in** | Belagavi, India |
 | 🎯 **Targeting** | Data Analyst · Business Analyst · Power BI Developer · MIS Executive |
 | 🐍 **Learning** | Python for advanced analytics |
-| 🧠 **Working style** | Count first. Clean second. Cross-che ck always. Document the bugs. |
+| 🧠 **Working style** | Count first. Clean second. Cross-check always. Document the bugs. |
 
 ---
 ## 🛠️ Tech Stack
