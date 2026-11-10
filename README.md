@@ -313,19 +313,6 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 
 ---
 
-## 🎓 Certification
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-9%20Courses-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Completed-December%202025-16A34A?style=for-the-badge"/>
-</p>
-
-📚 Data Cleaning · EDA · SQL · Visualization · Capstone · 🛠️ Excel, SQL, Tableau, R · 🔗 [View credential](https://coursera.org/share/c9135167c520baa7ddaad2d78e86b0df)
-
----
-
-
 ## 🎓 Certifications
 
 <p align="center">
@@ -344,8 +331,8 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 |---|---|---|---|---|
 | **Google Data Analytics Professional Certificate** | Coursera | 6 months · completed 29 Dec 2025 | Google Sheets / Excel, SQL, Tableau, R programming | [View](https://coursera.org/share/c9135167c520baa7ddaad2d78e86b0df) |
 | **Data Analyst Course** | ExcelR | 6 months · completed 27 Aug 2026 | Excel, Power BI, Tableau, SQL (MySQL), Python, Statistics, R, ChatGPT | [View](certificates/ExcelR-Data-Analyst.pdf) |
-| **Certificate Program in Data Analyst** | NASSCOM FutureSkills Prime | — | Data analytics | [View](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shivanand%2BSiddayya%2BMathapati_166518875.pdf) |
-| **Data Analytics Essentials** | Cisco Networking Academy | — | Data analytics fundamentals | [View](https://www.netacad.com/certificates/?issuanceId=5aba0f41-d663-4471-b88c-69a876b10cfa) |
+| **Certificate Program in Data Analyst** | NASSCOM FutureSkills Prime | 6 months · completed 27 Aug 2026 | Data analytics | [View](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shivanand%2BSiddayya%2BMathapati_166518875.pdf) |
+| **Data Analytics Essentials** | Cisco Networking Academy | 3 months · completed 2 Nov 2026 | Data analytics fundamentals | [View](https://www.netacad.com/certificates/?issuanceId=5aba0f41-d663-4471-b88c-69a876b10cfa) |
 
 ### 📊 Power BI, Tableau & SQL
 
