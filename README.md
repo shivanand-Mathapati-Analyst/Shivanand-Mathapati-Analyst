@@ -300,6 +300,9 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 ## 🗺️ Roadmap
 
 <details>
+<summary><b>What I've finished and what's next (click to expand)</b></summary>
+<br>
+
 - [x] HR Analytics — SQL Server · Power BI
 - [x] Customer Segmentation — Excel · Power BI · SQL Server
 - [x] Superstore Sales Analysis — Excel · Power BI · SQL Server
