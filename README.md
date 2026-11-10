@@ -171,10 +171,10 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 ## 2️⃣ Customer Segmentation & Revenue Intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TOOLS-EXCEL%20%7C%20POWER%20BI%20%7C%20SQL%20SERVER-0EA5E9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/METHOD-RFM%20SEGMENTATION-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DATA-541K%20RECORDS-F59E0B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TOOLS-EXCEL%20%7C%20POWER%20BI%20%7C%20SQL%20SERVER-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/METHOD-RFM%20SEGMENTATION-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA-541K%20RECORDS-F59E0B?style=for-the-badge"/>
 </p>
 
 🧠 **The question:** *Which customers drive the revenue — and who is about to leave?*
@@ -209,10 +209,10 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 ## 3️⃣ Superstore Sales Analysis — *Why Did Profit Decline?*
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TOOLS-EXCEL%20%7C%20POWER%20BI%20%7C%20SQL%20SERVER-0EA5E9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/METHOD-PROFITABILITY%20ANALYSIS-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DATA-9,994%20ROWS-F59E0B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TOOLS-EXCEL%20%7C%20POWER%20BI%20%7C%20SQL%20SERVER-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/METHOD-PROFITABILITY%20ANALYSIS-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA-9,994%20ROWS-F59E0B?style=for-the-badge"/>
 </p>
 
 🧠 **The question:** *Why did profit fall while sales kept growing?*
