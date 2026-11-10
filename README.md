@@ -149,7 +149,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 |:-:|:-:|:-:|:-:|:-:|
 | **33.4%**<br>85% voluntary | **Production**<br>~40% attrition, 52% of payroll | **Referrals** 16%<br>vs Google Search 61% | **5 managers**<br>above 40% attrition | **4.02%**<br>women vs men |
 
-<details open>
+<details>
 <summary><b>📖 Case study — Situation · Task · Action · Result</b></summary>
 <br>
 
@@ -162,10 +162,15 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 
 </details>
 
+<details>
+<summary><b>🧩 Pick a version</b></summary>
+<br>
+
 | Version | Highlights | Link |
 |---|---|---|
 | 🗄️📊 **SQL Server + Power BI** | 3-schema design, 11 views, 3 stored procedures, 7-section dashboard | [Repo](https://github.com/shivanand-Mathapati-Analyst/hr-attrition-analytics-sql-powerbi) |
 
+</details>
 ---
 
 ## 2️⃣ Customer Segmentation & Revenue Intelligence
@@ -185,7 +190,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 |:-:|:-:|:-:|:-:|:-:|
 | **£8.89M** gross<br>£8.28M net | **4,371**<br>5 RFM segments | **23%** of customers<br>drive **65.84%** of revenue | **33.9%**<br>inactive 90+ days | **£1.3M+**<br>At Risk + Lost |
 
-<details open>
+<details>
 <summary><b>📖 Case study — Situation · Task · Action · Result</b></summary>
 <br>
 
@@ -198,11 +203,18 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 
 </details>
 
+<details>
+  
+<summary><b>🧩 Pick a version</b></summary>
+<br>
+
 | Version | Highlights | Link |
 |---|---|---|
 | 📗 **Excel** | 5-table Power Pivot model, 20+ DAX measures, slicer dashboards | [Repo](https://github.com/shivanand-Mathapati-Analyst/excel-customer-segmentation-analysis) |
 | 📊 **Power BI** | Single-page bookmark-driven app, 49 DAX measures, drill-through, 2 custom tooltips | [Repo](https://github.com/shivanand-Mathapati-Analyst/powerbi-customer-segmentation-analysis) |
 | 🗄️ **SQL Server** | `NTILE(5)` RFM engine, recursive-CTE calendar, 26 views + 2 stored procedures | [Repo](https://github.com/shivanand-Mathapati-Analyst/sql-customer-segmentation-analysis) |
+
+</details>
 
 ---
 
@@ -223,7 +235,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 |:-:|:-:|:-:|:-:|:-:|
 | **$2.30M** sales<br>**$286K** profit | Margin **13.4% → 12.7%**<br>while sales grew 20%+ | **26.3%** of orders<br>(1,318 / 5,009) lost money | **$322.58K** in discounts<br>*more than total profit* | **Furniture**<br>Tables & Bookcases |
 
-<details open>
+<details>
 <summary><b>📖 Case study — Situation · Task · Action · Result</b></summary>
 <br>
 
@@ -236,12 +248,17 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 
 </details>
 
+<details>
+<summary><b>🧩 Pick a version</b></summary>
+<br>
+
 | Version | Highlights | Link |
 |---|---|---|
 | 📗 **Excel** | MoM & YoY analysis, 12+ KPIs, slicer dashboard | [Repo](https://github.com/shivanand-Mathapati-Analyst/excel-superstore-sales-analysis) |
 | 📊 **Power BI** | 6 pages + 3 tooltip pages, 50+ DAX measures, DAX-written insight callouts | [Repo](https://github.com/shivanand-Mathapati-Analyst/powerbi-superstore-sales-analysis) |
 | 🗄️ **SQL Server** | The same business problem in native T-SQL | [Repo](https://github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis) |
 
+</details>
 ---
 
 ## 🐞 Bugs I Caught and Fixed
