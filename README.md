@@ -52,7 +52,7 @@
   
   <b>🗄️ Databases</b><br>
   
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <br>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Star%20Schema-334155?style=flat-square"/>
 </p>
 
-<p align="center">
+<p align="left">
   <b>📊 Analytics & BI Tools</b><br>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
