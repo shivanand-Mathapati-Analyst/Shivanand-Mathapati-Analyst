@@ -40,7 +40,7 @@
 | 🎓 **Education** | B.E. Computer Science Engineering (VTU) |
 | 🏅 **Certified** | Google Data Analytics Professional Certificate (Dec 2025) |
 | 📍 **Based in** | Belagavi, India |
-| 🎯 **Targeting** | Data Analyst · Junior BI Analyst · Business Analyst |
+| 🎯 **Targeting** | Data Analyst · Junior BI Analyst · Business Analyst · MIS Executive |
 | 🐍 **Learning** | Python (pandas) for advanced analytics |
 | 🧠 **Working style** | Count first. Clean second. Cross-check always. Document the bugs. |
 
