@@ -135,10 +135,10 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 ## 1️⃣ HR Analytics — Employee Attrition, Workforce & Compensation
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-334155?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TOOLS-SQL%20SERVER%20%7C%20POWER%20BI-334155?style=flat-square"/>
-  <img src="https://img.shields.io/badge/METHOD-ATTRITION%20ANALYSIS-334155?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DATA-311%20EMPLOYEES-334155?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TOOLS-SQL%20SERVER%20%7C%20POWER%20BI-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/METHOD-ATTRITION%20ANALYSIS-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA-311%20EMPLOYEES-F59E0B?style=for-the-badge"/>
 </p>
 
 🧠 **The question:** *Why do employees leave — and where should HR act first?*
