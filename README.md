@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════  HERO  ═══════════════════════════ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:0EA5E9,100:00C2FF&text=Shivanand%20S%20Mathapati&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Excel%20%C2%B7%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20Python&descSize=19&descAlignY=58&animation=twinkling" width="100%" alt="Shivanand S Mathapati banner"/>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 | Layer | Tools | Proven in |
@@ -91,7 +91,6 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 | 1 | [**HR Analytics — Employee Attrition, Workforce & Compensation**](#1️⃣-hr-analytics--employee-attrition-workforce--compensation) | SQL Server · Power BI | ✅ Completed |
 | 2 | [**Customer Segmentation & Revenue Intelligence**](#2️⃣-customer-segmentation--revenue-intelligence) | Excel · Power BI · SQL Server | ✅ Completed |
 | 3 | [**Superstore Sales — Why Did Profit Decline?**](#3️⃣-superstore-sales-analysis--why-did-profit-decline) | Excel · Power BI · SQL Server | ✅ Completed |
-| 4 | **Airbnb Pricing & Occupancy** | Python · SQL Server · Power BI | 🚧 In progress |
 
 ---
 
@@ -120,7 +119,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 - **SQL Server:** 3-schema design (`original` → `datamodel` → `reporting`), star schema with **1 fact + 9 dimensions**, **11 analysis views**, **3 stored procedures**
 - **Power BI:** one-page, **7-section dashboard**, ~50 DAX measures, bookmark navigation, drill-through employee page, custom tooltip, dynamic "Key insight" text
 
-🔗 [View project](https://github.com/shivanand-Mathapati-Analyst/hr-analytics-attrition-sql-powerbi)
+🔗 [View project](https://github.com/shivanand-Mathapati-Analyst/hr-attrition-analytics-sql-powerbi)
 
 </details>
 
