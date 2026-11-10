@@ -358,19 +358,6 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 ## 📊 GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shivanand-Mathapati-Analyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shivanand-Mathapati-Analyst&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shivanand-Mathapati-Analyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanand-Mathapati-Analyst&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanand-Mathapati-Analyst&layout=compact&theme=default&hide_border=true">
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanand-Mathapati-Analyst&layout=compact&theme=tokyonight&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivanand-Mathapati-Analyst&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/shivanand-mathapati-analyst?style=for-the-badge&label=Followers&color=0EA5E9"/>
   <img src="https://img.shields.io/github/stars/shivanand-mathapati-analyst?style=for-the-badge&label=Stars&color=F59E0B"/>
