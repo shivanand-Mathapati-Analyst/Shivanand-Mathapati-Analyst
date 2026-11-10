@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/LOD%20Calculations-334155?style=flat-square"/>
 </p>
 
-<p align="center">
+<p align="left">
   <b>📗 Spreadsheets</b><br>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Dashboards-334155?style=flat-square"/>
 </p>
 
-<p align="center">
+<p align="left">
   <b>🧰 Tools & Learning</b><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -101,7 +101,6 @@
 </p>
 
 | | |
-|---|---|
 | 🧪 **Methods** | RFM segmentation · Pareto · root-cause analysis · attrition analysis · profitability analysis |
 | 📁 **Proven in** | HR Analytics · Customer Segmentation · Superstore Sales Analysis |
 
