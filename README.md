@@ -238,7 +238,6 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 - [x] HR Analytics — SQL Server · Power BI
 - [x] Customer Segmentation — Excel · Power BI · SQL Server
 - [x] Superstore Sales Analysis — Excel · Power BI · SQL Server
-- [ ] 🚧 Airbnb Pricing & Occupancy — Python · SQL Server · Power BI
 - [ ] 🐍 Python for advanced analytics — EDA & automation
 - [ ] 📈 Executive dashboard (Tableau)
 
