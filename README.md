@@ -299,11 +299,14 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 
 ## 🗺️ Roadmap
 
+<details>
 - [x] HR Analytics — SQL Server · Power BI
 - [x] Customer Segmentation — Excel · Power BI · SQL Server
 - [x] Superstore Sales Analysis — Excel · Power BI · SQL Server
 - [ ] 🐍 Python for advanced analytics — EDA & automation
 - [ ] 📈 Executive dashboard (Tableau)
+
+</details>
 
 ---
 
