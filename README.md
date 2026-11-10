@@ -325,6 +325,49 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 
 ---
 
+
+## 🎓 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ExcelR-Data%20Analyst%20Course-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/12%20Certificates-16A34A?style=for-the-badge"/>
+</p>
+
+<details>
+<summary><b>🏅 View all certificates (click to expand)</b></summary>
+<br>
+
+### 🎓 Professional programs
+
+| Certificate | Issuer | Duration / Date | What I learned | Credential |
+|---|---|---|---|---|
+| **Google Data Analytics Professional Certificate** | Coursera | 6 months · completed 29 Dec 2025 | Google Sheets / Excel, SQL, Tableau, R programming | [View](https://coursera.org/share/c9135167c520baa7ddaad2d78e86b0df) |
+| **Data Analyst Course** | ExcelR | 6 months · completed 27 Aug 2026 | Excel, Power BI, Tableau, SQL (MySQL), Python, Statistics, R, ChatGPT | [View](certificates/ExcelR-Data-Analyst.pdf) |
+| **Certificate Program in Data Analyst** | NASSCOM FutureSkills Prime | — | Data analytics | [View](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shivanand%2BSiddayya%2BMathapati_166518875.pdf) |
+| **Data Analytics Essentials** | Cisco Networking Academy | — | Data analytics fundamentals | [View](https://www.netacad.com/certificates/?issuanceId=5aba0f41-d663-4471-b88c-69a876b10cfa) |
+
+### 📊 Power BI, Tableau & SQL
+
+| Certificate | Issuer | Date | Credential |
+|---|---|---|---|
+| **Mastering Power BI: Data Analysis & Dashboard Creation** | Skill India | — | [View](https://api-fe.skillindiadigital.gov.in/api/registry-course/getCertificatePresignedUrl/2026082138571645-f376ab0d-20b5-42bc-9907-4f3ecf2ebb75) |
+| **Get Started with T-SQL Programming** | Microsoft Learn | 26 Aug 2026 | [View](certificates/Microsoft-Learn-TSQL.pdf) |
+| **Introduction to Tableau** | Simplilearn SkillUp | — | [View](https://simpli-web.app.link/e/Htg5LveWs5b) |
+| **Data Analyst 101** | Simplilearn SkillUp | — | [View](https://simpli-web.app.link/e/RgEKGBN2H5b) |
+| **Intro to SQL** | Kaggle | 27 Aug 2026 | [View](certificates/Kaggle-Intro-to-SQL.pdf) |
+| **SQL (Basic) & SQL (Intermediate)** | HackerRank | 21 Aug 2026 | [View](certificates/HackerRank-SQL.pdf) |
+
+### 🤖 Other
+
+| Certificate | Issuer | Credential |
+|---|---|---|
+| **Gen AI Tools** | NASSCOM FutureSkills Prime | [View](https://www.futureskillsprime.in/iDH/user/credential/view/32914-d9ff02df-a203-11f1-bcca-005056b48b54) |
+
+</details>
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
