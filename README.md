@@ -49,59 +49,6 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <b>Databases</b><br>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br><br>
-  <b>Analytics & BI</b><br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <br><br>
-  <b>Spreadsheets</b><br>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-  <br><br>
-  <b>Programming & Tools</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <b>Databases</b><br>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br><br>
-  <b>Analytics & BI</b><br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/DAX-334155?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Power%20Query-334155?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-  <br><br>
-  <b>Spreadsheets</b><br>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Pivot%20Tables-334155?style=flat-square&logo=microsoft-excel&logoColor=4ADE80"/>
-  <img src="https://img.shields.io/badge/Power%20Pivot-334155?style=flat-square&logo=microsoft-excel&logoColor=4ADE80"/>
-  <img src="https://img.shields.io/badge/Power%20Query-334155?style=flat-square&logo=microsoft-excel&logoColor=4ADE80"/>
-  <br><br>
-  <b>Tools</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-
-## 🛠️ Tech Stack
-
-<p align="center">
   <b>🗄️ Databases</b><br>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -110,7 +57,6 @@
   <img src="https://img.shields.io/badge/CTEs-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/Stored%20Procedures-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/Joins-334155?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Subqueries-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/Window%20Functions-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/Star%20Schema-334155?style=flat-square"/>
 </p>
@@ -123,7 +69,6 @@
   <img src="https://img.shields.io/badge/DAX-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/Power%20Query-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/Data%20Modelling-334155?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Bookmarks-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/Drill--through-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/Custom%20Tooltips-334155?style=flat-square"/>
   <img src="https://img.shields.io/badge/LOD%20Calculations-334155?style=flat-square"/>
@@ -143,20 +88,19 @@
 </p>
 
 <p align="center">
-  <b>🧰 Tools</b><br>
+  <b>🧰 Tools & Learning</b><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/pandas-334155?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-334155?style=flat-square"/>
 </p>
 
-
-
-| Layer | Tools | Proven in |
-|---|---|---|
-| **Database** | SQL Server (T-SQL) | Star schema, CTEs, window functions, views, stored procedures, data validation |
-| **Modelling & visualization** | Power BI, Tableau | DAX, bookmarks, drill-through, custom tooltips, dynamic titles |
-| **Spreadsheets** | Excel, Google Sheets | Power Query, Power Pivot, pivot tables, dashboards |
-| **Methods** | RFM, Pareto, root-cause, attrition analysis | Customer Segmentation, Sales Analysis, HR Analytics |
-| **Learning** | Python | Data cleaning with pandas |
+| | |
+|---|---|
+| 🧪 **Methods** | RFM segmentation · Pareto · root-cause analysis · attrition analysis · profitability analysis |
+| 📁 **Proven in** | HR Analytics · Customer Segmentation · Superstore Sales Analysis |
 
 ---
 
