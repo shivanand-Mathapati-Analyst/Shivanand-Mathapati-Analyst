@@ -99,7 +99,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 <p>
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
   <img src="https://img.shields.io/badge/TOOLS-SQL%20SERVER%20%7C%20POWER%20BI-0EA5E9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MODEL-STAR%20SCHEMA-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/METHOD-ATTRITION%20ANALYSIS-7C3AED?style=flat-square"/>
   <img src="https://img.shields.io/badge/DATA-311%20EMPLOYEES-F59E0B?style=flat-square"/>
 </p>
 
@@ -112,16 +112,21 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 | **33.4%**<br>85% voluntary | **Production**<br>~40% attrition, 52% of payroll | **Referrals** 16%<br>vs Google Search 61% | **5 managers**<br>above 40% attrition | **4.02%**<br>women vs men |
 
 <details open>
-<summary><b>📖 What I built</b></summary>
+<summary><b>📖 Case study — Situation · Task · Action · Result</b></summary>
 <br>
 
-- **Validated before cleaning:** hidden trailing spaces (found with `DATALENGTH`, since `LEN` missed them), stray manager IDs, ID columns that disagreed with their text, and 2 impossible review dates (kept and flagged, not guessed)
-- **SQL Server:** 3-schema design (`original` → `datamodel` → `reporting`), star schema with **1 fact + 9 dimensions**, **11 analysis views**, **3 stored procedures**
-- **Power BI:** one-page, **7-section dashboard**, ~50 DAX measures, bookmark navigation, drill-through employee page, custom tooltip, dynamic "Key insight" text
-
-🔗 [View project](https://github.com/shivanand-Mathapati-Analyst/hr-attrition-analytics-sql-powerbi)
+| | |
+|---|---|
+| **🧩 Situation** | A company's HR data (311 employees, 36 columns) showed people leaving, but nobody knew where, why, or which hiring sources and managers were linked to it. |
+| **🎯 Task** | Find who leaves and why, compare pay, hiring sources and managers, and show HR where to act first. |
+| **⚙️ Action** | Validated the raw data before cleaning (hidden spaces, stray manager IDs, mismatched ID columns, 2 impossible review dates); built a star schema (1 fact + 9 dimensions) in SQL Server; wrote 11 analysis views and 3 stored procedures; built a one-page, 7-section Power BI dashboard with about 50 DAX measures, bookmarks, drill-through and a custom tooltip. |
+| **🏁 Result** | **33.4% attrition**, mostly voluntary and concentrated in Production; **referral hires leave at 16% vs 61%** for Google Search hires; **5 managers** have team attrition above 40%; women earn about **4% less** on average. |
 
 </details>
+
+| Version | Highlights | Link |
+|---|---|---|
+| 🗄️📊 **SQL Server + Power BI** | 3-schema design, 11 views, 3 stored procedures, 7-section dashboard | [Repo](https://github.com/shivanand-Mathapati-Analyst/hr-attrition-analytics-sql-powerbi) |
 
 ---
 
@@ -134,13 +139,15 @@ For the two earlier projects I went further and **rebuilt each one in three tool
   <img src="https://img.shields.io/badge/DATA-541K%20RECORDS-F59E0B?style=flat-square"/>
 </p>
 
+🧠 **The question:** *Which customers drive the revenue — and who is about to leave?*
+
 ### 📈 Impact at a glance
 
 | 💰 Revenue | 👥 Customers | 🏆 Concentration | ⚠️ Churn | 🚨 Revenue at risk |
 |:-:|:-:|:-:|:-:|:-:|
 | **£8.89M** gross<br>£8.28M net | **4,371**<br>5 RFM segments | **23%** of customers<br>drive **65.84%** of revenue | **33.9%**<br>inactive 90+ days | **£1.3M+**<br>At Risk + Lost |
 
-<details>
+<details open>
 <summary><b>📖 Case study — Situation · Task · Action · Result</b></summary>
 <br>
 
@@ -166,16 +173,30 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 <p>
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
   <img src="https://img.shields.io/badge/TOOLS-EXCEL%20%7C%20POWER%20BI%20%7C%20SQL%20SERVER-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/METHOD-PROFITABILITY%20ANALYSIS-7C3AED?style=flat-square"/>
   <img src="https://img.shields.io/badge/DATA-9,994%20ROWS-F59E0B?style=flat-square"/>
 </p>
 
-| 💰 Scale | 📉 The paradox | ⚠️ The leak | 🏷️ The cause |
-|:-:|:-:|:-:|:-:|
-| **$2.30M** sales<br>**$286K** profit | Margin **13.4% → 12.7%** while sales grew 20%+ | **26.3%** of orders (1,318 / 5,009) lost money | **$322.58K** in discounts — *more than total profit* |
+🧠 **The question:** *Why did profit fall while sales kept growing?*
 
-- 📉 **Discounts above 30% turn margin negative**; above 50% it hits **−119%**
-- 🪑 **Furniture (Tables & Bookcases)** is structurally unprofitable despite the highest average discount
-- 🗺️ Texas, Ohio, Colorado, Illinois and Pennsylvania drive most losses
+### 📈 Impact at a glance
+
+| 💰 Scale | 📉 The paradox | ⚠️ The leak | 🏷️ The cause | 🪑 Weak spot |
+|:-:|:-:|:-:|:-:|:-:|
+| **$2.30M** sales<br>**$286K** profit | Margin **13.4% → 12.7%**<br>while sales grew 20%+ | **26.3%** of orders<br>(1,318 / 5,009) lost money | **$322.58K** in discounts<br>*more than total profit* | **Furniture**<br>Tables & Bookcases |
+
+<details open>
+<summary><b>📖 Case study — Situation · Task · Action · Result</b></summary>
+<br>
+
+| | |
+|---|---|
+| **🧩 Situation** | A US retailer's sales were growing by more than 20%, but its profit margin was shrinking and nobody knew why. |
+| **🎯 Task** | Find what was pulling profit down and say where to act (discounts, categories, regions). |
+| **⚙️ Action** | Analysed profit by discount band, category, sub-category and state, plus order-level profitability, month-over-month and year-over-year; built the same analysis in 3 tools (Excel, Power BI, SQL Server). |
+| **🏁 Result** | **Discounts above 30% turn margin negative** (above 50% it hits −119%); **$322.58K in discounts exceeds total profit**; **Furniture (Tables & Bookcases)** is structurally unprofitable; Texas, Ohio, Colorado, Illinois and Pennsylvania drive most losses. |
+
+</details>
 
 | Version | Highlights | Link |
 |---|---|---|
@@ -191,17 +212,22 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 <summary><b>The real problems I hit while building — and how I diagnosed them</b></summary>
 <br>
 
-| 🐛 Bug | 🔍 How I found it | 🛠️ Fix |
-|---|---|---|
-| **Hidden spaces passed my check** — `LEN` and `<> TRIM` returned 0 | Distinct counts were higher than expected | Used `DATALENGTH`, which counts trailing spaces (HR project) |
-| **Diversity hires showed 23, not 29** (HR dashboard) | Compared the DAX card with my SQL count | Measure used the wrong source ID; changed it to the diversity-fair flag |
-| **Stray manager IDs came back** after rebuilding a table | Dimension check showed IDs 3 and 30 again | Picked each manager's most-used ID in the cleaning query |
-| **UK dates misread** — `ALTER COLUMN` to `DATETIME` failed | Raw dates are `dd-mm-yyyy`; the server assumed `us_english` | `SET DATEFORMAT dmy` before casting |
-| **Customers silently dropped** — 33 had `NULL` RFM values | A `NULL` check returned 33, not 0 | `INNER JOIN` → `LEFT JOIN` + `COALESCE` |
-| **Return-only customers scored as "Potential Loyalists"** in Power BI | DAX `RANKX` sorts `BLANK()` as the smallest value | Gave blank-Recency customers an honest worst-case value |
-| **Inflated revenue %** in a SQL view | Customer-level `Monetary` joined to the fact table summed once per transaction | Aggregated from the dimension, no join |
-| **#1 product was a mirage** | Same SKU topped "best-selling" and "most-returned" at 80,995 units | One customer bought and cancelled it — flagged, not ranked |
-| **December "collapse"** | Dataset ends 9 Dec | Footnoted as a data-boundary artifact |
+| 📁 Project | 🐛 Bug | 🔍 How I found it | 🛠️ Fix |
+|---|---|---|---|
+| HR | **Hidden spaces passed my check** — `LEN` and `<> TRIM` returned 0 | Distinct counts were higher than expected | Used `DATALENGTH`, which counts trailing spaces |
+| HR | **Stray manager IDs came back** after rebuilding a table | The dimension check showed IDs 3 and 30 again | Picked each manager's most-used ID in the cleaning query |
+| HR | **Dim_Date returned 2 rows**, not 5,113 | The recursive part of the CTE read from the wrong place | Pointed it at its own CTE and carried the end date |
+| HR | **Typo `ReceDesc`** carried into a dimension column | Column check against the source | Renamed to `RaceDesc` before it reached Power BI |
+| HR | **Diversity hires showed 23, not 29** | Compared the DAX card with my SQL count | The measure used the wrong source ID; changed it to the diversity-fair flag |
+| HR | **Top 5 reasons chart ignored the Status slicer** | Changed the slicer and the chart didn't move | Added `KEEPFILTERS` in the measure |
+| HR | **Manager engagement chart showed only 2 bars** | Top N conflicted with the minimum-team-size filter | Moved the rule into a measure (`IF([Total Employees] >= 10, …)`) |
+| HR | **Highest Salary card showed `$2,50,000`** | Indian number grouping on import | Set Locale for import to English (US) |
+| Customer Segmentation | **UK dates misread** — `ALTER COLUMN` to `DATETIME` failed | Raw dates are `dd-mm-yyyy`; the server assumed `us_english` | `SET DATEFORMAT dmy` before casting |
+| Customer Segmentation | **Customers silently dropped** — 33 had `NULL` RFM values | A `NULL` check returned 33, not 0 | `INNER JOIN` → `LEFT JOIN` + `COALESCE` |
+| Customer Segmentation | **Return-only customers scored as "Potential Loyalists"** in Power BI | DAX `RANKX` sorts `BLANK()` as the smallest value | Gave blank-Recency customers an honest worst-case value |
+| Customer Segmentation | **Inflated revenue %** in a SQL view | Customer-level `Monetary` joined to the fact table summed once per transaction | Aggregated from the dimension, no join |
+| Customer Segmentation | **#1 product was a mirage** | Same SKU topped "best-selling" and "most-returned" at 80,995 units | One customer bought and cancelled it — flagged, not ranked |
+| Customer Segmentation | **December "collapse"** | Dataset ends 9 Dec | Footnoted as a data-boundary artifact |
 
 </details>
 
