@@ -106,6 +106,10 @@
 
 ## 🧭 My Approach
 
+<details>
+<summary><b>How I build every project (click to expand)</b></summary>
+<br>
+
 ```mermaid
 flowchart LR
     A[📦 Raw data] --> B[🔎 Validate<br/>count every row]
@@ -119,6 +123,8 @@ flowchart LR
 ```
 
 For the two earlier projects I went further and **rebuilt each one in three tools** (Excel, Power BI, SQL Server). When independent pipelines land on the same answer, the result is trustworthy.
+
+</details>
 
 ---
 
