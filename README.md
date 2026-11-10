@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════  HERO  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:0EA5E9,100:00C2FF&text=Shivanand%20S%20Mathapati&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Excel%20%C2%B7%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descSize=19&descAlignY=58&animation=twinkling" width="100%" alt="Shivanand S Mathapati banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:0EA5E9,100:00C2FF&text=Shivanand%20S%20Mathapati&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Excel%20%C2%B7%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20Python&descSize=19&descAlignY=58&animation=twinkling" width="100%" alt="Shivanand S Mathapati banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&color=00C2FF&size=22&duration=2600&pause=700&center=true&vCenter=true&width=760&lines=I+don't+just+build+dashboards.;I+prove+the+numbers+are+right.;One+business+question.+Three+tools.+Same+answer.;" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&color=00C2FF&size=22&duration=2600&pause=700&center=true&vCenter=true&width=760&lines=I+don't+just+build+dashboards.;I+prove+the+numbers+are+right.;Raw+CSV+%E2%86%92+SQL+%E2%86%92+Power+BI+%E2%86%92+Business+answer.;" alt="Typing SVG"/>
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-**[⚡ TL;DR](#-recruiter-tldr)** · **[👤 About](#-about)** · **[🧭 Approach](#-my-signature-approach)** · **[🏆 Projects](#-featured-projects)** · **[🔬 Cross-Validation](#-cross-tool-validation)** · **[🐞 Bugs I Caught](#-bugs-i-caught-and-fixed)** · **[🗺️ Roadmap](#️-roadmap)** · **[🤝 Connect](#-lets-connect)**
+**[⚡ TL;DR](#-recruiter-tldr)** · **[👤 About](#-about)** · **[🧭 Approach](#-my-approach)** · **[🏆 Projects](#-featured-projects)** · **[🐞 Bugs I Caught](#-bugs-i-caught-and-fixed)** · **[🗺️ Roadmap](#️-roadmap)** · **[🤝 Connect](#-lets-connect)**
 
 </div>
 
@@ -22,14 +22,14 @@
 ## ⚡ Recruiter TL;DR
 
 > [!TIP]
-> I'm a Data Analyst aspirant (Excel · SQL Server · Power BI · DAX · Power Query) who builds each project **end to end** — raw CSV → validated, cleaned data → star schema → analysis → business recommendations — and then **rebuilds it in a second and third tool to check the answer.**
+> I'm a Data Analyst (Excel · SQL Server · Power BI · DAX · Python) who builds every project **end to end** — raw CSV → validated, cleaned data → star schema → analysis → dashboard → business recommendations — and **checks every number against a second source.**
 
 | 🎯 What I deliver | 📊 Proof (from my projects) |
 |---|---|
 | Customer segmentation that finds the money | **23% of customers = 65.84% of revenue** across 541K transactions |
 | Diagnosis, not just dashboards | Found **why** profit fell while sales grew: **$322K in discounts > $286K total profit** |
-| Data I can defend | Row counts verified at **every** cleaning step: 541,909 → 401,560 |
-| Judgment on messy data | Caught a **partial-month artifact** and a **bulk-order-then-cancel** anomaly before they reached a report |
+| Workforce insight that points to action | **33.4% attrition**, concentrated in Production (~40%); referral hires leave at **16%** vs **61%** for Google Search hires |
+| Data I can defend | Row counts verified at **every** cleaning step; SQL results used to check every DAX measure |
 
 ---
 
@@ -40,11 +40,12 @@
 | 🎓 **Education** | B.E. Computer Science Engineering (VTU) |
 | 🏅 **Certified** | Google Data Analytics Professional Certificate (Dec 2025) |
 | 📍 **Based in** | Belagavi, India |
-| 🎯 **Targeting** | Data Analyst · Business Analyst · Power BI Developer · MIS Executive |
-| 🐍 **Learning** | Python for advanced analytics |
+| 🎯 **Targeting** | Data Analyst · Junior BI Analyst · Business Analyst |
+| 🐍 **Learning** | Python (pandas) for advanced analytics |
 | 🧠 **Working style** | Count first. Clean second. Cross-check always. Document the bugs. |
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -57,32 +58,29 @@
 
 | Layer | Tools | Proven in |
 |---|---|---|
-| **Spreadsheet analytics** | Excel, Google Sheets | Data Cleaning, Formulas, Power Pivot, Power Query, Pivot Table, Macros, Dashboards |
-| **Modelling & Visualization** | Power BI, Tableau | DAX, LOD, Calculated Fields, Power Query, M-Code, Dashboards |
-| **Database** | SQL Server, MySQL | Window functions, CTE, Views, Stored Procedures etc |
-| **Methods** | RFM, Pareto, root-cause, validation | Customer Segmentation, Sales Analysis, Attrition Analysis |
-| **Learning** | Python | Data Cleaning |
+| **Database** | SQL Server (T-SQL) | Star schema, CTEs, window functions, views, stored procedures, data validation |
+| **Modelling & visualization** | Power BI, Tableau | DAX, bookmarks, drill-through, custom tooltips, dynamic titles |
+| **Spreadsheets** | Excel, Google Sheets | Power Query, Power Pivot, pivot tables, dashboards |
+| **Methods** | RFM, Pareto, root-cause, attrition analysis | Customer Segmentation, Sales Analysis, HR Analytics |
+| **Learning** | Python | Data cleaning with pandas |
 
 ---
 
-## 🧭 My Signature Approach
-
-**Most portfolios build a project once. I rebuild the same business problem in three tools.** When three independent pipelines — built with different techniques — land on the same answer, that's validation no single tool can give you.
+## 🧭 My Approach
 
 ```mermaid
 flowchart LR
-    A[📦 One raw dataset] --> B[🔎 Validate<br/>count every row]
+    A[📦 Raw data] --> B[🔎 Validate<br/>count every row]
     B --> C[🧹 Clean<br/>verify each step]
-    C --> D[📗 Excel<br/>Power Pivot + DAX]
-    C --> E[📊 Power BI<br/>interactive app]
-    C --> F[🗄️ SQL Server<br/>T-SQL warehouse]
-    D --> G{🔬 Do all three<br/>agree?}
-    E --> G
-    F --> G
-    G -->|yes| H[💡 Trusted insight<br/>+ recommendations]
-    G -->|no| I[🐞 Investigate<br/>find the bug]
-    I --> C
+    C --> D[🗄️ Model<br/>star schema in SQL]
+    D --> E[📊 Dashboard<br/>Power BI]
+    E --> F{🔬 Numbers match<br/>the SQL?}
+    F -->|yes| G[💡 Insights +<br/>recommendations]
+    F -->|no| H[🐞 Find the bug]
+    H --> C
 ```
+
+For the two earlier projects I went further and **rebuilt each one in three tools** (Excel, Power BI, SQL Server). When independent pipelines land on the same answer, the result is trustworthy.
 
 ---
 
@@ -90,13 +88,45 @@ flowchart LR
 
 | # | Project | Tools | Status |
 |:-:|---|---|:-:|
-| 1 | [**Customer Segmentation & Revenue Intelligence**](#1️⃣-customer-segmentation--revenue-intelligence) | Excel · Power BI · SQL Server | ✅ Completed |
-| 2 | [**Superstore Sales — Why Did Profit Decline?**](#2️⃣-superstore-sales-analysis--why-did-profit-decline) | Excel · Power BI · SQL Server | ✅ Completed |
-| 3 | [**HR Analytics — Employee Attrition**](#3️⃣-hr-analytics--employee-attrition) | SQL Server · Power BI | ✅ Completed |
+| 1 | [**HR Analytics — Employee Attrition, Workforce & Compensation**](#1️⃣-hr-analytics--employee-attrition-workforce--compensation) | SQL Server · Power BI | ✅ Completed |
+| 2 | [**Customer Segmentation & Revenue Intelligence**](#2️⃣-customer-segmentation--revenue-intelligence) | Excel · Power BI · SQL Server | ✅ Completed |
+| 3 | [**Superstore Sales — Why Did Profit Decline?**](#3️⃣-superstore-sales-analysis--why-did-profit-decline) | Excel · Power BI · SQL Server | ✅ Completed |
+| 4 | **Airbnb Pricing & Occupancy** | Python · SQL Server · Power BI | 🚧 In progress |
 
 ---
 
-## 1️⃣ Customer Segmentation & Revenue Intelligence
+## 1️⃣ HR Analytics — Employee Attrition, Workforce & Compensation
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TOOLS-SQL%20SERVER%20%7C%20POWER%20BI-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MODEL-STAR%20SCHEMA-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DATA-311%20EMPLOYEES-F59E0B?style=flat-square"/>
+</p>
+
+🧠 **The question:** *Why do employees leave — and where should HR act first?*
+
+### 📈 Impact at a glance
+
+| 📉 Attrition | 🏭 Hotspot | 🎯 Best hiring source | 👔 Manager risk | 💰 Pay gap |
+|:-:|:-:|:-:|:-:|:-:|
+| **33.4%**<br>85% voluntary | **Production**<br>~40% attrition, 52% of payroll | **Referrals** 16%<br>vs Google Search 61% | **5 managers**<br>above 40% attrition | **4.02%**<br>women vs men |
+
+<details open>
+<summary><b>📖 What I built</b></summary>
+<br>
+
+- **Validated before cleaning:** hidden trailing spaces (found with `DATALENGTH`, since `LEN` missed them), stray manager IDs, ID columns that disagreed with their text, and 2 impossible review dates (kept and flagged, not guessed)
+- **SQL Server:** 3-schema design (`original` → `datamodel` → `reporting`), star schema with **1 fact + 9 dimensions**, **11 analysis views**, **3 stored procedures**
+- **Power BI:** one-page, **7-section dashboard**, ~50 DAX measures, bookmark navigation, drill-through employee page, custom tooltip, dynamic "Key insight" text
+
+🔗 [View project](https://github.com/shivanand-Mathapati-Analyst/hr-analytics-attrition-sql-powerbi)
+
+</details>
+
+---
+
+## 2️⃣ Customer Segmentation & Revenue Intelligence
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
@@ -105,16 +135,13 @@ flowchart LR
   <img src="https://img.shields.io/badge/DATA-541K%20RECORDS-F59E0B?style=flat-square"/>
 </p>
 
-🗓️ **Timeline:** `<start date>` → `<end date>`
-
 ### 📈 Impact at a glance
 
 | 💰 Revenue | 👥 Customers | 🏆 Concentration | ⚠️ Churn | 🚨 Revenue at risk |
 |:-:|:-:|:-:|:-:|:-:|
 | **£8.89M** gross<br>£8.28M net | **4,371**<br>5 RFM segments | **23%** of customers<br>drive **65.84%** of revenue | **33.9%**<br>inactive 90+ days | **£1.3M+**<br>At Risk + Lost |
 
-
-<details open>
+<details>
 <summary><b>📖 Case study — Situation · Task · Action · Result</b></summary>
 <br>
 
@@ -127,54 +154,21 @@ flowchart LR
 
 </details>
 
-### 🧩 Pick a version
-
-<details>
-<summary><b>📗 Excel</b> — Power Query · Power Pivot · DAX</summary>
-<br>
-
-- **5-table star schema** in Power Pivot, **20+ DAX measures** (CLV, churn, retention, RFM scoring)
-- Two slicer-driven dashboards + a dedicated **EDA** sheet + a **Business Insights & Actions** page (Finding → Insight → Action)
-
-🔗 [View project](https://github.com/shivanand-Mathapati-Analyst/customer-segmentation-analysis)
-
-</details>
-
-<details>
-<summary><b>📊 Power BI</b> — a single-page "app", not a stack of tabs</summary>
-<br>
-
-- **Bookmark-driven app:** fixed sidebar + persistent global slicers + **5 swappable views**
-- **49 DAX measures** — `RANKX` scoring, Pareto curves, DAX-generated insight sentences
-- **Drillthrough** customer page + **2 custom tooltip pages**; hand-built dark *"Obsidian & Amber"* theme
-
-🔗 [View project](https://github.com/shivanand-Mathapati-Analyst/YOUR-POWERBI-CUSTOMER-SEGMENTATION-REPO) · 🌐 [Live report](https://YOUR-POWER-BI-SERVICE-LINK)
-
-</details>
-
-<details>
-<summary><b>🗄️ SQL Server</b> — T-SQL warehouse + reporting layer</summary>
-<br>
-
-- **3-schema design:** `original` → `datamodel` → `reporting`
-- **`NTILE(5)` RFM engine**, **recursive-CTE** calendar table, **26 views + 2 stored procedures**
-- Fully commented script ending in written *Findings → Root Causes → Insights → Recommendations*
-
-🔗 [View project](https://github.com/shivanand-Mathapati-Analyst/YOUR-SQL-CUSTOMER-SEGMENTATION-REPO)
-
-</details>
+| Version | Highlights | Link |
+|---|---|---|
+| 📗 **Excel** | 5-table Power Pivot model, 20+ DAX measures, slicer dashboards | [Repo](https://github.com/shivanand-Mathapati-Analyst/excel-customer-segmentation-analysis) |
+| 📊 **Power BI** | Single-page bookmark-driven app, 49 DAX measures, drill-through, 2 custom tooltips | [Repo](https://github.com/shivanand-Mathapati-Analyst/powerbi-customer-segmentation-analysis) |
+| 🗄️ **SQL Server** | `NTILE(5)` RFM engine, recursive-CTE calendar, 26 views + 2 stored procedures | [Repo](https://github.com/shivanand-Mathapati-Analyst/sql-customer-segmentation-analysis) |
 
 ---
 
-## 2️⃣ Superstore Sales Analysis — *Why Did Profit Decline?*
+## 3️⃣ Superstore Sales Analysis — *Why Did Profit Decline?*
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
   <img src="https://img.shields.io/badge/TOOLS-EXCEL%20%7C%20POWER%20BI%20%7C%20SQL%20SERVER-0EA5E9?style=flat-square"/>
   <img src="https://img.shields.io/badge/DATA-9,994%20ROWS-F59E0B?style=flat-square"/>
 </p>
-
-🗓️ **Timeline:** `<start date>` → `<end date>`
 
 | 💰 Scale | 📉 The paradox | ⚠️ The leak | 🏷️ The cause |
 |:-:|:-:|:-:|:-:|
@@ -184,56 +178,11 @@ flowchart LR
 - 🪑 **Furniture (Tables & Bookcases)** is structurally unprofitable despite the highest average discount
 - 🗺️ Texas, Ohio, Colorado, Illinois and Pennsylvania drive most losses
 
-<details>
-<summary><b>🧩 Excel · Power BI · SQL Server versions</b></summary>
-<br>
-
 | Version | Highlights | Link |
 |---|---|---|
-| 📗 **Excel** | MoM & YoY analysis, 12+ KPIs, slicer dashboard — reporting time cut from hours to minutes | [Repo](https://github.com/shivanand-Mathapati-Analyst/excel-superstore-sales-analysis) |
-| 📊 **Power BI** | 6 pages + 3 tooltip pages, 50+ DAX measures, dynamic titles & DAX-written insight callouts | [Repo](https://github.com/shivanand-Mathapati-Analyst/powerbi-sales-analysis-project) |
+| 📗 **Excel** | MoM & YoY analysis, 12+ KPIs, slicer dashboard | [Repo](https://github.com/shivanand-Mathapati-Analyst/excel-superstore-sales-analysis) |
+| 📊 **Power BI** | 6 pages + 3 tooltip pages, 50+ DAX measures, DAX-written insight callouts | [Repo](https://github.com/shivanand-Mathapati-Analyst/powerbi-superstore-sales-analysis) |
 | 🗄️ **SQL Server** | The same business problem in native T-SQL | [Repo](https://github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis) |
-
-</details>
-
----
-
-## 3️⃣ HR Analytics — Employee Attrition
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-COMING%20SOON-F59E0B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TOOL-POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DATASET-IBM%20HR%20ANALYTICS-0EA5E9?style=flat-square"/>
-</p>
-
-🧠 **The question:** *Why do employees leave — and who is most likely to go next?*
-
-| 🔭 Planned focus | What it will answer |
-|---|---|
-| **Attrition drivers** | Which factors (overtime, tenure, income, role, satisfaction) most strongly predict leaving? |
-| **Workforce risk** | Which departments and roles carry the most attrition exposure? |
-| **Employee profile** | What does a flight-risk employee look like versus a retained one? |
-| **Actionable levers** | Where can HR intervene for the biggest retention impact? |
-
-> [!NOTE]
-> Designed to cover the full breadth of Power BI — and to look unlike a typical portfolio dashboard. **Star this repo to follow along.**
-
----
-
-## 🔬 Cross-Tool Validation
-
-Same dataset, same methodology, **built independently** — here's how the Customer Segmentation numbers line up:
-
-| Metric | 📗 Excel | 🗄️ SQL Server | 📊 Power BI |
-|---|:-:|:-:|:-:|
-| Total customers | 4,371 | 4,371 | 4,371 |
-| Gross revenue | £8.89M | £8.89M | `[fill in]` |
-| Net revenue (after returns) | £8.28M | £8.28M | `[fill in]` |
-| Champions — customers | 1,009 | 1,009 | `[fill in]` |
-| Champions — share of revenue | 65.84% | 65.84% | `[fill in]` |
-| Churn rate (90+ days inactive) | 33.91% | 33.9% | `[fill in]` |
-
-> Tiny differences (e.g. ±1 customer at a segment boundary) come from tie-breaking in each tool's ranking logic — and are documented, not hidden.
 
 ---
 
@@ -245,14 +194,15 @@ Same dataset, same methodology, **built independently** — here's how the Custo
 
 | 🐛 Bug | 🔍 How I found it | 🛠️ Fix |
 |---|---|---|
-| **UK dates misread** — `ALTER COLUMN` to `DATETIME` failed with "out-of-range" | Raw dates are `dd-mm-yyyy`; the server assumed `us_english` | `SET DATEFORMAT dmy` before casting |
-| **Customers silently dropped** — 33 customers had `NULL` RFM values | A `NULL` check returned 33, not 0; they only had cancelled orders | `INNER JOIN` → `LEFT JOIN` + `COALESCE` fallbacks |
-| **Return-only customers scored as "Potential Loyalists"** in Power BI | DAX `RANKX` sorts `BLANK()` as the smallest value → accidental top Recency score | Gave blank-Recency customers an honest worst-case value |
-| **Inflated revenue %** in a SQL view | Joined a customer-level `Monetary` to the fact table → summed once per transaction (fan-out join) | Aggregate customer-level fields from the dimension, with no join |
-| **Segment counts impossible** (Lost + At Risk > R≤2 pool) | Pool-size arithmetic didn't add up | A `>=` typo that should have been `<=` |
-| **Duplicates left in Power BI** | Cross-tool row count disagreed with SQL | Added a de-duplication step upstream |
-| **#1 product was a mirage** | Same SKU topped both "best-selling" and "most-returned" at 80,995 units | One customer bought and fully cancelled it — flagged, not ranked |
-| **December "collapse"** | Dataset ends 9 Dec — a partial month | Footnoted as a data-boundary artifact |
+| **Hidden spaces passed my check** — `LEN` and `<> TRIM` returned 0 | Distinct counts were higher than expected | Used `DATALENGTH`, which counts trailing spaces (HR project) |
+| **Diversity hires showed 23, not 29** (HR dashboard) | Compared the DAX card with my SQL count | Measure used the wrong source ID; changed it to the diversity-fair flag |
+| **Stray manager IDs came back** after rebuilding a table | Dimension check showed IDs 3 and 30 again | Picked each manager's most-used ID in the cleaning query |
+| **UK dates misread** — `ALTER COLUMN` to `DATETIME` failed | Raw dates are `dd-mm-yyyy`; the server assumed `us_english` | `SET DATEFORMAT dmy` before casting |
+| **Customers silently dropped** — 33 had `NULL` RFM values | A `NULL` check returned 33, not 0 | `INNER JOIN` → `LEFT JOIN` + `COALESCE` |
+| **Return-only customers scored as "Potential Loyalists"** in Power BI | DAX `RANKX` sorts `BLANK()` as the smallest value | Gave blank-Recency customers an honest worst-case value |
+| **Inflated revenue %** in a SQL view | Customer-level `Monetary` joined to the fact table summed once per transaction | Aggregated from the dimension, no join |
+| **#1 product was a mirage** | Same SKU topped "best-selling" and "most-returned" at 80,995 units | One customer bought and cancelled it — flagged, not ranked |
+| **December "collapse"** | Dataset ends 9 Dec | Footnoted as a data-boundary artifact |
 
 </details>
 
@@ -260,11 +210,12 @@ Same dataset, same methodology, **built independently** — here's how the Custo
 
 ## 🗺️ Roadmap
 
+- [x] HR Analytics — SQL Server · Power BI
 - [x] Customer Segmentation — Excel · Power BI · SQL Server
 - [x] Superstore Sales Analysis — Excel · Power BI · SQL Server
-- [ ] 🚧 HR Analytics — Employee Attrition (Power BI)
-- [ ] 🚧 *Midnight Analytics* — executive dashboard (Tableau)
+- [ ] 🚧 Airbnb Pricing & Occupancy — Python · SQL Server · Power BI
 - [ ] 🐍 Python for advanced analytics — EDA & automation
+- [ ] 📈 Executive dashboard (Tableau)
 
 ---
 
@@ -292,18 +243,6 @@ Same dataset, same methodology, **built independently** — here's how the Custo
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanand-Mathapati-Analyst&layout=compact&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanand-Mathapati-Analyst&layout=compact&theme=default&hide_border=true">
     <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanand-Mathapati-Analyst&layout=compact&theme=tokyonight&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivanand-mathapati-analyst&theme=tokyonight&hide_border=true" height="150" alt="Streak stats"/>
-</p>
-
-<!-- Contribution snake: requires the snake.yml workflow (included separately) to have run once -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanand-Mathapati-Analyst/shivanand-Mathapati-Analyst/output/github-snake.svg">
   </picture>
 </p>
 
