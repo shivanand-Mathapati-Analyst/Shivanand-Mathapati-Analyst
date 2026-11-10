@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:0EA5E9,100:00C2FF&text=Shivanand%20S%20Mathapati&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Excel%20%C2%B7%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20Python&descSize=19&descAlignY=58&animation=twinkling" width="100%" alt="Shivanand S Mathapati banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:0EA5E9,100:00C2FF&text=Shivanand%20S%20Mathapati&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Excel%20%C2%B7%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20MySQL&descSize=19&descAlignY=58&animation=twinkling" width="100%" alt="Shivanand S Mathapati banner"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&color=00C2FF&size=22&duration=2600&pause=700&center=true&vCenter=true&width=760&lines=I+don't+just+build+dashboards.;I+prove+the+numbers+are+right.;Raw+CSV+%E2%86%92+SQL+%E2%86%92+Power+BI+%E2%86%92+Business+answer.;" alt="Typing SVG"/>
 
