@@ -163,6 +163,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 </details>
 
 <details>
+  
 <summary><b>🧩 Pick a version</b></summary>
 <br>
 
@@ -171,6 +172,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 | 🗄️📊 **SQL Server + Power BI** | 3-schema design, 11 views, 3 stored procedures, 7-section dashboard | [Repo](https://github.com/shivanand-Mathapati-Analyst/hr-attrition-analytics-sql-powerbi) |
 
 </details>
+
 ---
 
 ## 2️⃣ Customer Segmentation & Revenue Intelligence
@@ -259,6 +261,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 | 🗄️ **SQL Server** | The same business problem in native T-SQL | [Repo](https://github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis) |
 
 </details>
+
 ---
 
 ## 🐞 Bugs I Caught and Fixed
