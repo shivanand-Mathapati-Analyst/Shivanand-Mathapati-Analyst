@@ -318,6 +318,13 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/ExcelR-Data%20Analyst%20Course-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AIVariant-Data%20Analyst%20Internship-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/13%20Certificates-16A34A?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ExcelR-Data%20Analyst%20Course-F59E0B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/12%20Certificates-16A34A?style=for-the-badge"/>
 </p>
 
