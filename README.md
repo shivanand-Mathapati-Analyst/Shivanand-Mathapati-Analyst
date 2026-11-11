@@ -43,6 +43,7 @@
 | 🎯 **Targeting** | Data Analyst · Junior BI Analyst · Business Analyst · MIS Executive |
 | 🐍 **Learning** | Python (pandas) for advanced analytics |
 | 🧠 **Working style** | Count first. Clean second. Cross-check always. Document the bugs. |
+| 💼 **Experience** | Data Analyst Intern, AIVariant (Jul – Oct 2026), team HR analytics project in Excel, MySQL, Power BI and Tableau |
 
 ---
 
