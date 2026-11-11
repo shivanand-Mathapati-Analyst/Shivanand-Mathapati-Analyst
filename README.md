@@ -332,7 +332,7 @@ For the two earlier projects I went further and **rebuilt each one in three tool
 
 | Certificate | Issuer | Duration / Date | What I learned | Credential |
 |---|---|---|---|---|
-| **Data Analyst Internship (Project)** | AIVariant | 3 months · 11 Jul 2026 – 11 Oct 2026 | Excel, SQL, Power BI, Tableau | [View](certificates/AIVariant-Internship-Certificate.pdf) |
+| **Data Analyst Internship (Project)** | AIVariant | 3 months · 11 Jul 2026 – 11 Oct 2026 | Team HR Analytics project in Excel, MySQL, Power BI and Tableau | [View](certificates/AIVariant-Internship-Certificate.pdf) |
 | **Google Data Analytics Professional Certificate** | Coursera | 6 months · completed 29 Dec 2025 | Google Sheets / Excel, SQL, Tableau, R programming | [View](https://coursera.org/share/c9135167c520baa7ddaad2d78e86b0df) |
 | **Data Analyst Course** | ExcelR | 6 months · completed 27 Aug 2026 | Excel, Power BI, Tableau, SQL (MySQL), Python, Statistics, R, ChatGPT | [View](certificates/ExcelR-Data-Analyst.pdf) |
 | **Certificate Program in Data Analyst** | NASSCOM FutureSkills Prime | 6 months · Issued on 14 Oct 2026 | Data analytics | [View](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shivanand%2BSiddayya%2BMathapati_166518875.pdf) |
